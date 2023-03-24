@@ -1,0 +1,2 @@
+I learnt many concepts in Python:
+like e.g Functions, classes objects, loops, conditionals, dataTypes etc.
