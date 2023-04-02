@@ -1,0 +1,7 @@
+
+{
+  "Name": ["Shifa", "Maryam", "Ali", "Amna"],
+  "Age": [25, 30, 28, 24],
+  "Gender": ["Female", "Female", "Male", "Female"],
+  "City": ["Islamabad", "Lahore", "London", "Gilgit"]
+}
